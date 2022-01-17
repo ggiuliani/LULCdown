@@ -3,7 +3,7 @@ This is the Python code implementation of Switzerland's downscaling aglorithm of
 Dependencies: [GDAL](https://gdal.org), [NumPy](https://numpy.org), [xlrd](https://github.com/python-excel/xlrd), [Pandas](https://pandas.pydata.org)
 
 Two versions of the code are available:
-- a single-node version to be executed on a single computer
+- a [single-node version](single) to be executed on a single computer
 - a [parallelized version](parallel) to be executed on a cluster together with a script for merging the processed tiles
 The [expert table](expert_table_72cat_v4.xls) is also provided.
 
