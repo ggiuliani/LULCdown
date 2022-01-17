@@ -4,7 +4,7 @@ Dependencies: [GDAL](https://gdal.org), [NumPy](https://numpy.org), [xlrd](https
 
 Two versions of the code are available:
 - a static version to be executed on a single computer
-- a parallelized version to be executed on a cluster together with a script for merging the processed tiles
+- a [parallelized version](parallel) to be executed on a cluster together with a script for merging the processed tiles
 The expert table is also provided.
 
 The methodology and results are presented in the following (submitted) paper:
