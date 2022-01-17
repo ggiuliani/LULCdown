@@ -3,9 +3,13 @@ This is the Python code implementation of Switzerland's downscaling aglorithm of
 Dependencies: [GDAL](https://gdal.org), [NumPy](https://numpy.org), [xlrd](https://github.com/python-excel/xlrd), [Pandas](https://pandas.pydata.org)
 
 Two versions of the code are available:
-- a static version to be executed on a single computer
+- a single-node version to be executed on a single computer
 - a [parallelized version](parallel) to be executed on a cluster together with a script for merging the processed tiles
-The expert table is also provided.
+The [expert table](expert_table_72cat_v4.xls) is also provided.
+
+The Land Use/Land Cover data are freely available at [Federal Office for Statistics](https://www.bfs.admin.ch/bfs/fr/home/statistiques/espace-environnement/enquetes/area.html) and the base map at swisstopo [TLM3D](https://www.swisstopo.admin.ch/en/geodata/landscape/tlm3d.html)
+
+The outputs are available on the University of Geneva Digital Repository [Yareta]()
 
 The methodology and results are presented in the following (submitted) paper:
 *Giuliani G., Rodila D., Külling N., Maggini R., Lehmann A., Downscaling Switzerland Land Use/Land Cover data using nearest neighbors and an expert system. **Remote Sensing***
