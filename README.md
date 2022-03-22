@@ -12,4 +12,4 @@ The Land Use/Land Cover data are freely available at [Federal Office for Statist
 The outputs are available on the University of Geneva Digital Repository [Yareta](https://yareta.unige.ch/) and can be downloaded at: [https://doi.org/10.26037/yareta:dlx3hu54jfa3ne3c2xjfcnqpxm](https://doi.org/10.26037/yareta:dlx3hu54jfa3ne3c2xjfcnqpxm)
 
 The methodology and results are presented in the following (submitted) paper:
-*Giuliani G., Rodila D., Külling N., Maggini R., Lehmann A., Downscaling Switzerland Land Use/Land Cover data using nearest neighbors and an expert system. **Remote Sensing***
+*Giuliani G., Rodila D., Külling N., Maggini R., Lehmann A., Downscaling Switzerland Land Use/Land Cover data using nearest neighbors and an expert system. **Land***
