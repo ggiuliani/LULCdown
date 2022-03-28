@@ -1,5 +1,6 @@
 # LULCdown
-This is the Python code implementation of Switzerland's downscaling aglorithm of Land Cover & Land Use data.
+This is the Python code implementation of Switzerland's downscaling aglorithm of Land Use & Land Cover data.
+
 Dependencies: [GDAL](https://gdal.org), [NumPy](https://numpy.org), [xlrd](https://github.com/python-excel/xlrd), [Pandas](https://pandas.pydata.org)
 
 Two versions of the code are available:
